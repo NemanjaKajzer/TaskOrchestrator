@@ -1,0 +1,1 @@
+CREATE TABLE tasks (id UUID PK, title TEXT NOT NULL, status TEXT NOT NULL DEFAULT pending, payload JSONB, created_at TIMESTAMPTZ, updated_at TIMESTAMPTZ)

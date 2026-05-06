@@ -1,4 +1,4 @@
-module github.com/NemanjaKajzer/task-orchestrator
+module github.com/NemanjaKajzer/TaskOrchestrator
 
 go 1.26.2
 
