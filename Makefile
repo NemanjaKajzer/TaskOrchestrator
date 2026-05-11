@@ -1,3 +1,5 @@
+include .env
+
 .PHONY: run test lint migrate-up migrate-down
 
 run:
